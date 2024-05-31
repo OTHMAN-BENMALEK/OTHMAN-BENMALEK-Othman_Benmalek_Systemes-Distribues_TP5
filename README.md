@@ -1,4 +1,4 @@
-# OTHMAN-BENMALEK-Othman_Benmalek_Systemes-Distribues_TP5
+# Othman_Benmalek_Systemes-Distribues_TP5
 
 
 ## 1. Création d'un Web service qui permet de : 
