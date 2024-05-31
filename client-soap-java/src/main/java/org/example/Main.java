@@ -19,7 +19,6 @@ public class Main {
             System.out.println(cp.getCode());
             System.out.println(cp.getSolde());
             System.out.println(cp.getDateCreation());
-
         });
     }
 }
